@@ -1,0 +1,18 @@
+.slider-info{
+    display: flex;
+    width: 100px !important;
+    height: 100px !important;
+    justify-content: center;
+}
+.slider-info img{
+    width: 100% !important;
+    margin-left: 30px;
+}
+.carousel-item{
+    float: none !important;
+}
+.carousel-item.active{
+    display: flex !important;
+    justify-content: center !important;
+    gap: 10px !important;
+}

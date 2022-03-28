@@ -1,0 +1,33 @@
+#expertise-container{
+    margin-top: 40rem;
+}
+.left img{
+    width: 70%;
+    float: right;
+    transition: 3s ease-out;
+}
+.left img:hover{
+    transform: scale(1.5);
+}
+.right{
+    padding: 2rem 10rem 0 0;
+}
+.right-title{
+    color: #0b0b5c;
+    font-family: "ubuntu condensed",Sans-serif;
+    font-size: 2.3em;
+    font-weight: 700;
+}
+.right-typed-me{
+    color: red !important;
+    font-family: "roboto condensed",Sans-serif !important;
+    font-size: 1.1em !important;
+    font-weight: 700 !important;
+}
+.right-para{
+    color: #353232;
+    font-family: "roboto",Sans-serif;
+    font-size: 1.3em;
+    font-weight: 300;
+    line-height: 1.5em;
+}

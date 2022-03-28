@@ -1,0 +1,7 @@
+.content-slide{
+    display: flex;
+    justify-content: space-evenly;
+}
+.slider-text{
+    /* padding: 10px; */
+}
